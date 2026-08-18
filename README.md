@@ -1,29 +1,21 @@
-# CODSOFT – Web Development Internship
+# CODSOFT – Level 1 Task 2: Landing Page
 
-## Level 1 Task 1: Personal Portfolio
+Responsive landing page created for the CODSOFT Web Development Internship.
 
-This project is a responsive personal portfolio created using:
-
+## Technologies
 - HTML5
 - CSS3
 - JavaScript
 
-### Sections
-- Home / Header
-- About
-- Skills
-- Projects
-- Certificates
-- Contact
-- Footer
+## Features
+- Responsive navigation
+- Hero section
+- Call-to-action buttons
+- Feature cards
+- About section
+- Contact section
+- Mobile-friendly layout
 
-## How to run
+Open `index.html` in a browser to run the project.
 
-1. Open `index.html` in a web browser.
-2. Replace the placeholder email and social links with your actual links.
-3. Add your resume PDF if required.
-4. Push the complete `CODSOFT` folder to a GitHub repository named `CODSOFT`.
-
-## CODSOFT requirement
-
-The internship document states that Level 1 Task 1 is a personal portfolio using HTML and CSS, with sections such as header, about, skills, projects, resume, contact, and footer.
+Before publishing, replace `your-email@example.com` in `index.html` with your actual email address.
